@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rdlfnc.github.io/nauteasy/sitemap.xml
